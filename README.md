@@ -1,6 +1,7 @@
 # High Similarity Behavioural Radar dataset
-The High Similarity Behavioural Radar dataset is available for download at：https://www.aliyundrive.com/drive/album.The dataset is  available to everyone. The details is existed in the submitted paper "High Similarity Human Behaviours Recognition Using Micro-doppler Signatures and Dual Kernels Convolution Neural Network based on FMCW Radar".
-Total space occupied by the file is 87G.
+The High Similarity Behavioural Radar dataset is available to download at：https://www.aliyundrive.com/drive/album. The account of the aliyundrive: 13303808613;
+PIN：HSBRD12.
+Total space occupied by the file is 82.73G.
 Specific behaviour are listed below:
 1)	Falling forward ,
 2)	Getting up from falling a forward position,
@@ -14,6 +15,4 @@ Specific behaviour are listed below:
 10)	Getting up from a sitting position,
 11)	Bending ,
 12)	Walking .
-
-The account of the aliyundrive: 133****8613;
-PIN：Z*******12.
+The details is existed in our paper "High Similarity Human Behaviours Recognition Using Micro-doppler Signatures and Dual Kernels Convolution Neural Network based on FMCW Radar".
