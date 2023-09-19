@@ -15,4 +15,4 @@ Specific behavior are listed below:
 10)	Getting up from a sitting position,
 11)	Bending ,
 12)	Walking .
-The details is existed in our paper "High-Similarity Human Behavior Recognition Using Micro-doppler Signatures and Lightweight Convolutional Neural Network based on FMCW Radar".
+The details is existed in our paper "High-Similarity Human Behavior Recognition Using Lightweight Convolutional Neural Network based on Radar Micro-doppler Signatures".
